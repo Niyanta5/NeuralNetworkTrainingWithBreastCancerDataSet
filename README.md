@@ -1,17 +1,24 @@
-# Building a Neural Network Training With Breast Cancer DataSet
-Building a neural network from scratch and training it on Breast cancer dataset
-
-Building a Neural Network from Scratch with Breast Cancer detection dataset
+#Building a Neural Network from Scratch with Breast Cancer detection dataset
 In this notebook, we’ll build a neural network using Python and NumPy. Here’s the roadmap:
 
-Create a basic neuron that calculates the weighted sum and applies the sigmoid activation function.
 
-Train a neuron to learn the AND gate operation using gradient descent.
+1. Create a basic neuron that calculates the weighted sum and applies the sigmoid activation function.
 
-Visualize the transformation in 3D space with 3 hidden neurons.
+2. Train a neuron to learn the AND gate operation using gradient descent.
 
-Explore the XOR problem in 2D, showing why a single neuron can’t solve it.
+3. Visualize the transformation in 3D space with 3 hidden neurons.
 
-Train a neural network on the Breast Cancer dataset.
+4. Explore the XOR problem in 2D, showing why a single neuron can’t solve it.
 
-Add L2 regularization to prevent overfitting and improve the model architecture for better performance.
+5. Train a neural network on the Breast Cancer dataset.
+
+6. Key Enhancements to the Neural Network for Improved Performance and Generalization
+
+7. Sample Predictions Analysis
+
+
+
+
+
+
+
