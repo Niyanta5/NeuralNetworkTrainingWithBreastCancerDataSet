@@ -106,7 +106,7 @@ Understanding neural networks at this fundamental level provides several advanta
 
 ## Contact
 
-For questions or collaboration opportunities, please reach out at [your-email@example.com](mailto:your-email@example.com).
+For questions or collaboration opportunities, please reach out at [niyantapandey@gmail.com](mailto:your-email@example.com)
 
 ---
 
