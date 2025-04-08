@@ -74,11 +74,8 @@ The project includes critical visualizations that demonstrate:
 # Clone this repository
 git clone https://github.com/Niyanta5/NeuralNetworkTrainingWithBreastCancerDataSet.git
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run Jupyter notebook
-jupyter notebook building_neural_networks.ipynb
+jupyter notebook neuralnetwork-breastcancerdetectiondataset.ipynb
 ```
 
 ## Why This Matters
