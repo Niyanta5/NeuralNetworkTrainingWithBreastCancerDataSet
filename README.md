@@ -54,7 +54,6 @@ The project is structured as a progressive journey through neural network concep
 ## Code Structure
 
 ```
-neural_network_from_scratch/
 ├── neuralnetwork-breastcancerdetectiondataset.ipynb     # Main notebook with all implementations
 ├── README.md                          # This file
 ```
